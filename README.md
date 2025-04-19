@@ -9,7 +9,7 @@ enfocado en alumnos de ingenieria.
 
 ##
 Librerias utilizadas
-- [R shinny]()
-- [Rstudio]()
-- [Plotly]()
-Este es un ejemplo de una aplicación usando Rshiny para visualizar distribuciones continuas y discretas.
+- [R shinny](https://shiny.posit.co/)
+- [Rstudio](https://posit.co/download/rstudio-desktop/)
+- [Plotly](https://plotly.com/r/)
+
