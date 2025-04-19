@@ -1,4 +1,4 @@
-# Gráficos distribuciones probabilidad
+# Gráficos de distribuciones de probabilidad (continua y discreta)
 
 Seta web app busca entregar una forma llamativa de visualizar y entender modelo de probabilidad
 enfocado en alumnos de ingenieria.
