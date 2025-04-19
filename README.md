@@ -4,7 +4,7 @@ Seta web app busca entregar una forma llamativa de visualizar y entender modelo 
 enfocado en alumnos de ingenieria.
 
 ## Descripción de la aplicación
-### Shiny App de Funciones de Densidad y Probabilidad (con Plotly)
+### Shiny App de Funciones de Densidad y Probabilidad (con Plotly) [Shinny app](https://jaimelincovil.shinyapps.io/graficos_distribuciones_shinyapp/)
 
 ## Descripción
 Esta aplicación **Shiny** permite visualizar interactivamente tanto **densidades** (distribuciones continuas) como **funciones de masa** (distribuciones discretas) para varias familias estadísticas. Emplea la librería **plotly** para ofrecer gráficos con zoom, tooltips y regiones sombreadas (cola inferior, cola superior, ambas colas, zona central o igualdad).
